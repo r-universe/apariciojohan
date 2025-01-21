@@ -5,3 +5,6 @@
 [submodule "agriutilities"]
 	path = agriutilities
 	url = https://github.com/apariciojohan/agriutilities
+[submodule "flexFitR"]
+	path = flexFitR
+	url = https://github.com/apariciojohan/flexfitr
